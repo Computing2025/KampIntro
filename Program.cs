@@ -9,15 +9,15 @@
 
             if(dolarBugun > dolarDun)
             {
-                Console.WriteLine("Yukarı ok göster");
+                Console.WriteLine("Yukarı ok göster.");
             }
             else if (dolarBugun < dolarDun)
             {
-                Console.WriteLine("Aşağı ok göster");
+                Console.WriteLine("Aşağı ok göster.");
             } 
             else 
             {
-                Console.WriteLine("Yatay çizgi göster");
+                Console.WriteLine("Yatay çizgi gösterir.");
             }
         }
     }

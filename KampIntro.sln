@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Donguler", "..\Donguler\Don
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassIntro", "..\ClassIntro\ClassIntro.csproj", "{3496EEC5-BE85-42C2-9512-DDFF3D19C9A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metotlar", "..\Metotlar\Metotlar.csproj", "{C2C273F5-338F-42C3-92CA-AACD85DF6420}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metotlar", "..\Metotlar\Metotlar.csproj", "{C2C273F5-338F-42C3-92CA-AACD85DF6420}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
