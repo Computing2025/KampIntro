@@ -7,7 +7,7 @@ namespace ClassIntro
         {
             Kurs kurs1 = new()
             {
-                Konusu = "Yapay Zeka",
+                Konusu = "Yapay Zeka...",
                 KursAdi = "Python ile Yapay Zeka",
                 IzlenmeOrani = 25
             };
