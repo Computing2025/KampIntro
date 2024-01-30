@@ -9,7 +9,7 @@
 
             if(dolarBugun > dolarDun)
             {
-                Console.WriteLine("Yukarı ok göster.");
+                Console.WriteLine("Yukarı ok göster..");
             }
             else if (dolarBugun < dolarDun)
             {
